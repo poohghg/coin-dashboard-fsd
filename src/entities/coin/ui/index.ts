@@ -1,0 +1,1 @@
+export { CoinViewModel } from './CoinViewModel';
