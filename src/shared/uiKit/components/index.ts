@@ -9,6 +9,6 @@ export { If } from './If';
 export { SeeMoreList } from './SeeMoreList';
 export { HighlightValue } from './HighlightValue';
 export { ScrollIntoView } from './ScrollIntoView';
-export { FilterBar } from './FilterBar';
 
+export { FilterBar } from './FilterBar';
 export type { BaseTab } from './Tabs';
